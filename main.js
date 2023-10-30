@@ -1,6 +1,6 @@
 import './style.css'
 
-const audio = new window.Audio('./assets/music1.mp3');
+const audio = new window.Audio('./assets/fixyou.mp3');
 
  function reproducir () {
   audio.play();
